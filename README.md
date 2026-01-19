@@ -22,4 +22,7 @@ The goal of this project is to automatically extract relevant candidate informat
 ## Output
 The final output is a structured dataset containing parsed resume information.
 
-1
+### Phase 5 – Structured Data Storage
+Parsed resume data was normalized into a database-ready schema using Pandas,
+with entities stored in JSON format for future SQL or ML use.
+
